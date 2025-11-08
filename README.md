@@ -10,7 +10,6 @@ Linux Engineer | Tokyo | Shell / Perl / Infrastructure
 - 🏢 **Rakuten, Inc. (2011 – Present)**  
 - 💻 Linux Engineer specializing in infrastructure migration, cloud adoption, and automation  
 - 🌐 Based in **Tokyo, Japan**  
-- 🗣️ TOEIC(IP): 800  
 - 🔧 Passionate about system reliability, cloud platforms, and scripting (bash, Perl)
 
 ---
