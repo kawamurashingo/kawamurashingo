@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shingo Kawamura  
+# 👋 Hi, I'm Shingo Kawamura (川村慎吾)
 Linux Engineer | Tokyo | Shell / Perl / Infrastructure  
 
 [![Resume Repository](https://img.shields.io/badge/View_Resume-181717?style=flat-square&logo=github)](https://github.com/kawamurashingo/resume)
