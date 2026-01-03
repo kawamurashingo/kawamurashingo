@@ -63,7 +63,7 @@ Used in:
 
 ## 🏢 Professional Background (Summary)
 
-**:contentReference[oaicite:0]{index=0}** — 2011 to Present
+**Rakuten, Inc.** — 2011 to Present
 
 Worked across system administration, SRE, and technical account management roles.
 
