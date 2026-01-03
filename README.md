@@ -29,13 +29,6 @@ Linux Engineer | Tokyo | Shell / Perl / Infrastructure
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawamurashingo&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=kawamurashingo&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawamurashingo&layout=compact&theme=tokyonight)
-
----
-
 ## 🧾 Work Experience (Summary)
 
 ### 🔹 Technical Account Management (2020 – Present)
@@ -62,11 +55,6 @@ Linux Engineer | Tokyo | Shell / Perl / Infrastructure
 ## 🌱 Side Projects
 - 📝 [Qiita](https://qiita.com/pannakoota) — Technical posts & automation tips  
 - 💡 [GitHub](https://github.com/kawamurashingo) — Open-source tools and scripts  
-
----
-
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kawamurashingo&theme=onedark)
 
 ---
 
