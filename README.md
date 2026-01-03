@@ -53,7 +53,7 @@ Used in:
 | Category | Stack |
 |--------|------|
 | **Languages** | Shell (bash), Perl |
-| **OS** | CentOS 5–7, Rocky Linux 8–9, RHEL 8 |
+| **OS** | CentOS, Rocky Linux, RHEL |
 | **Virtualization** | VMware ESXi |
 | **Storage** | NetApp cDot (NAS) |
 | **Network / CDN** | Akamai |
