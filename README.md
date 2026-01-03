@@ -87,7 +87,3 @@ Worked across system administration, SRE, and technical account management roles
 
 📍 Tokyo, Japan  
 🔗 LinkedIn: https://www.linkedin.com/in/shingo-kawamura-20452443
-
----
-
-> “Build tools that keep working quietly, even after the trend has passed.”
