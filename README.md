@@ -67,7 +67,7 @@ Used in:
 
 Worked across system administration, SRE, and technical account management roles.
 
-- Large-scale datacenter migrations (1,000+ systems)
+- Large-scale datacenter migrations (10,000+ systems)
 - Infrastructure modernization and cloud adoption
 - SSL / CDN / load balancer migrations
 - Enterprise storage and VM platform transitions
