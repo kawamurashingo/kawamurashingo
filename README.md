@@ -3,7 +3,6 @@
 Author of **jq-lite** — a jq-compatible JSON processor written in pure Perl.  
 Linux / Infrastructure Engineer based in Tokyo.
 
-[![Resume Repository](https://img.shields.io/badge/View_Resume-181717?style=flat-square&logo=github)](https://github.com/kawamurashingo/resume)
 [![Qiita Profile](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/pannakoota)
 
 ---
