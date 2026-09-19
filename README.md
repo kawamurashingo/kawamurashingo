@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shingo Kawamura (川村慎吾)
+# 👋 Hi, I'm Shingo (川村慎吾)
 
 Author of **jq-lite** — a jq-compatible JSON processor written in pure Perl.
 Linux / Infrastructure Engineer based in Tokyo.
