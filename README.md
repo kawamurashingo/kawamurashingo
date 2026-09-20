@@ -1,112 +1,88 @@
-# 👋 Hi, I'm Shingo (川村慎吾)
+# 👋 Hi, I'm Shingo Kawamura (川村慎吾)
 
-Author of **jq-lite** — a jq-compatible JSON processor written in pure Perl.
-Linux / Infrastructure Engineer based in Tokyo.
+Infrastructure engineer, Perl developer, and open-source maintainer based in Tokyo.
 
----
+I work across **large-scale infrastructure**, **developer tooling**, and **software maintenance**. A recurring theme in my work is keeping useful systems dependable over time: preserving compatibility, reducing operational friction, and maintaining software that other systems quietly depend on.
 
-## 🧭 About Me
+## What I work on
 
-I'm a Linux engineer and open-source tool author focused on **long-term stability**
-and **practical tooling for real-world infrastructure**.
+### 🛟 CPAN maintenance and ecosystem stewardship
 
-I design and build tools that continue to work in:
+I run **[CPAN Rescue](https://github.com/kawamurashingo/cpan-rescue)**, an effort to identify important Perl distributions that are abandoned or under-maintained and bring them back into responsible maintenance.
 
-* legacy or restricted Linux environments
-* minimal containers and air-gapped systems
-* large-scale, long-lived enterprise infrastructure
+Current work includes:
 
----
+- **Devel::CallChecker** — adopted and released as 0.010 after downstream compatibility validation
+- **Log::Any::Adapter::Screen** — adopted after an upstream regression-test contribution
+- **Dist::CheckConflicts** — maintenance contribution awaiting upstream
+- **Dist::Zilla::Plugin::MetaProvides family** — confirmed `ADOPTME` rescue target with active downstream users
+- **DBD::ODBC** — investigating long-term maintenance status, testability, and rescue scope
 
-## 🧩 Representative Work
+The focus is conservative maintenance: tests, compatibility, CI, metadata, small fixes, and careful downstream validation rather than rewrites.
 
-### 🔹 jq-lite
+### 🧰 Practical open-source tools
 
-A **jq-compatible JSON processor written in pure Perl**, designed for:
+I build small, durable tools for environments where simplicity and deployability matter.
 
-* no external binaries
-* no native libraries
-* stable CLI behavior over time
+- **[JQ-Lite](https://github.com/kawamurashingo/JQ-Lite)** — jq-compatible JSON processor in pure Perl
+- **[HTTP-API-Core](https://github.com/kawamurashingo/HTTP-API-Core)** — reusable Perl foundation for HTTP API clients
+- **[sys-monitor-lite](https://github.com/kawamurashingo/sys-monitor-lite)** — lightweight system monitoring tooling
+- **[AkamaiOPEN-edgegrid-perl](https://github.com/kawamurashingo/AkamaiOPEN-edgegrid-perl)** — Perl tooling around Akamai EdgeGrid APIs
 
-Used in:
+### 🖥 Infrastructure engineering
 
-* minimal Linux distributions
-* CI / container environments
-* legacy systems where jq cannot be installed
+My professional background is in Linux and large-scale infrastructure operations, including:
 
-👉 Project: https://github.com/kawamurashingo/JQ-Lite
+- Linux system administration and SRE
+- datacenter and platform migrations involving **10,000+ systems**
+- CDN, SSL, load balancer, storage, and virtualization migrations
+- enterprise infrastructure modernization and cloud adoption
+- Akamai, VMware ESXi, NetApp, Azure, and GCP environments
 
----
+I tend to approach software from an operations perspective: predictable behavior, clear failure modes, compatibility, and maintainability matter as much as features.
 
-## 🛠 Technical Focus
+## Selected projects
 
-* Stable CLI tool design
-* Infrastructure as Text
-* Legacy system survivability
-* Automation with shell and Perl
+| Project | Focus |
+| --- | --- |
+| **[cpan-rescue](https://github.com/kawamurashingo/cpan-rescue)** | Rescue and long-term maintenance of abandoned or under-maintained CPAN distributions |
+| **[Devel-CallChecker](https://github.com/kawamurashingo/Devel-CallChecker)** | Maintenance of a low-level Perl XS compatibility module with broad downstream impact |
+| **[HTTP-API-Core](https://github.com/kawamurashingo/HTTP-API-Core)** | Stable reusable core for Perl HTTP API clients |
+| **[JQ-Lite](https://github.com/kawamurashingo/JQ-Lite)** | Pure-Perl jq-compatible JSON processor |
+| **[sys-monitor-lite](https://github.com/kawamurashingo/sys-monitor-lite)** | Lightweight infrastructure monitoring |
 
----
+## Technical focus
 
-## ⚙️ Core Skills
+- Perl and shell tooling
+- CPAN distribution maintenance
+- compatibility and regression testing
+- Linux infrastructure and operations
+- stable CLI and API design
+- CI and release engineering
+- automation for restricted, legacy, and long-lived environments
 
-| Category           | Stack                     |
-| ------------------ | ------------------------- |
-| **Languages**      | Shell (bash), Perl        |
-| **OS**             | CentOS, Rocky Linux, RHEL |
-| **Virtualization** | VMware ESXi               |
-| **Storage**        | NetApp cDot (NAS)         |
-| **Network / CDN**  | Akamai                    |
-| **Cloud**          | Azure, GCP                |
+## Background
 
----
+**Rakuten, Inc. — 2011 to Present**
 
-## 🏢 Professional Background
+Worked across system administration, SRE, and technical account management roles, with a focus on large-scale infrastructure reliability and migration work.
 
-**Rakuten, Inc.** — 2011 to Present
+Before that, I studied life sciences and bioinformatics at **Meiji University**, working with genomic data analysis and biological databases. That experience shaped how I think about reproducibility, data processing, and software-supported research.
 
-Worked across system administration, SRE, and technical account management roles.
+## What I value in software
 
-* Large-scale datacenter migrations involving **10,000+ systems**
-* Infrastructure modernization and cloud adoption
-* SSL / CDN / load balancer migrations
-* Enterprise storage and VM platform transitions
+I like software that is boring in the best possible way:
 
----
+- well tested
+- compatible
+- understandable
+- easy to operate
+- careful about downstream users
+- maintained for the long term
 
-## 🎓 Academic Background
+A lot of my open-source work is about making existing software more trustworthy rather than making it more complicated.
 
-**Meiji University — School of Agriculture, Department of Life Sciences**
-**April 2007 – April 2011**
+## Contact
 
-Member of the **Bioinformatics Laboratory**.
-
-Worked on bioinformatics and genomic data analysis, including:
-
-* DNA analysis of tomato genomes
-* Biological data processing and database development
-* Contribution to research associated with the tomato genome sequencing project
-
-Related publication:
-
-**The tomato genome sequence provides insights into fleshy fruit evolution**
-*Nature* 485, 635–641 (2012)
-https://www.nature.com/articles/nature11119
-
-This research background gave me an early foundation in working with
-large datasets, reproducible analysis, and software-assisted scientific research —
-principles that later carried over into infrastructure engineering and
-open-source tool development.
-
----
-
-## 🌱 Writing & Open Source
-
-* 💡 GitHub — open-source tools and infrastructure utilities
-  https://github.com/kawamurashingo
-
----
-
-## 🔗 Contact
-
-📍 Tokyo, Japan
-🔗 LinkedIn: https://www.linkedin.com/in/shingo-kawamura-20452443
+- GitHub: https://github.com/kawamurashingo
+- LinkedIn: https://www.linkedin.com/in/shingo-kawamura-20452443
