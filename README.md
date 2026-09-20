@@ -26,7 +26,6 @@ I build small, durable tools for environments where simplicity and deployability
 
 - **[JQ-Lite](https://github.com/kawamurashingo/JQ-Lite)** — jq-compatible JSON processor in pure Perl
 - **[HTTP-API-Core](https://github.com/kawamurashingo/HTTP-API-Core)** — reusable Perl foundation for HTTP API clients
-- **[sys-monitor-lite](https://github.com/kawamurashingo/sys-monitor-lite)** — lightweight system monitoring tooling
 
 ### 🖥 Infrastructure engineering
 
@@ -48,7 +47,6 @@ I tend to approach software from an operations perspective: predictable behavior
 | **[Devel-CallChecker](https://github.com/kawamurashingo/Devel-CallChecker)** | Maintenance of a low-level Perl XS compatibility module with broad downstream impact |
 | **[HTTP-API-Core](https://github.com/kawamurashingo/HTTP-API-Core)** | Stable reusable core for Perl HTTP API clients |
 | **[JQ-Lite](https://github.com/kawamurashingo/JQ-Lite)** | Pure-Perl jq-compatible JSON processor |
-| **[sys-monitor-lite](https://github.com/kawamurashingo/sys-monitor-lite)** | Lightweight infrastructure monitoring |
 
 ## Technical focus
 
