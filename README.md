@@ -27,7 +27,6 @@ I build small, durable tools for environments where simplicity and deployability
 - **[JQ-Lite](https://github.com/kawamurashingo/JQ-Lite)** — jq-compatible JSON processor in pure Perl
 - **[HTTP-API-Core](https://github.com/kawamurashingo/HTTP-API-Core)** — reusable Perl foundation for HTTP API clients
 - **[sys-monitor-lite](https://github.com/kawamurashingo/sys-monitor-lite)** — lightweight system monitoring tooling
-- **[AkamaiOPEN-edgegrid-perl](https://github.com/kawamurashingo/AkamaiOPEN-edgegrid-perl)** — Perl tooling around Akamai EdgeGrid APIs
 
 ### 🖥 Infrastructure engineering
 
