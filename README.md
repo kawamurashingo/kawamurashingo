@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shingo Kawamura (川村慎吾)
+# 👋 Hi, I'm Shingo Kawamura
 
 Infrastructure engineer, Perl developer, and open-source maintainer based in Tokyo.
 
