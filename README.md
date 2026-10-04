@@ -4,13 +4,12 @@ Infrastructure engineer, Perl developer, and open-source maintainer based in Tok
 
 I work across **large-scale infrastructure**, **developer tooling**, and **software maintenance**. A recurring theme in my work is keeping useful systems dependable over time: preserving compatibility, reducing operational friction, and maintaining software that other systems quietly depend on.
 
-I also run **[Open Steward](https://kawamurashingo.github.io/open-steward/)** — a public software-stewardship effort to create, rescue, and sustain software worth keeping.
 
 ## What I work on
 
 ### 🛟 CPAN maintenance and ecosystem stewardship
 
-I run **[CPAN Rescue](https://github.com/kawamurashingo/cpan-rescue)**, an effort to identify important Perl distributions that are abandoned or under-maintained and bring them back into responsible maintenance.
+I run **[CPAN Rescue](https://cpan-rescue.com)**, an effort to identify important Perl distributions that are abandoned or under-maintained and bring them back into responsible maintenance.
 
 Current work includes:
 
